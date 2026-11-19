@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1224" viewBox="0 0 1000 1224" role="img" aria-labelledby="title desc">
+  <title id="title">Карта областей студенческой жизни</title>
+  <desc id="desc">13 областей · от зачисления до выпуска. Полное текстовое описание находится под схемой.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .background { fill: #f0f4f8; }
+    .card { fill: #ffffff; stroke: #cbd7e5; }
+    .heading { fill: #13243b; font-weight: 700; font-size: 34px; }
+    .subheading { fill: #455971; font-size: 18px; }
+    .area { fill: #13243b; font-weight: 700; font-size: 23px; }
+    .badge { fill: #dcebf8; }
+    .number { fill: #174876; font-weight: 700; font-size: 16px; }
+    .body { fill: #324760; font-size: 17px; }
+    .dot { fill: #4077a9; }
+  </style>
+  <rect width="100%" height="100%" rx="20" class="background"/>
+  <text x="28" y="54" class="heading"><tspan x="28" dy="0">Карта областей студенческой жизни</tspan></text>
+  <text x="29" y="83" class="subheading"><tspan x="29" dy="0">13 областей · от зачисления до выпуска</tspan></text>
+  <g transform="translate(28 112)">
+    <rect width="464" height="115" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">01</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Освоиться после зачисления</tspan></text>
+    <text x="20" y="64" class="body"><tspan x="20" dy="0">Получить доступы и понять, как устроена учёба в</tspan><tspan x="20" dy="21">своей группе.</tspan></text>
+  </g>
+  <g transform="translate(508 112)">
+    <rect width="464" height="115" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">02</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Организовать учебную неделю</tspan></text>
+    <text x="20" y="64" class="body"><tspan x="20" dy="0">Знать, когда, где и в каком формате состоятся</tspan><tspan x="20" dy="21">занятия, и подстроить под них планы.</tspan></text>
+  </g>
+  <g transform="translate(28 243)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">03</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Осваивать курсы и выполнять</tspan><tspan x="69" dy="27">работы</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Разбираться в материале, сдавать задания и</tspan><tspan x="20" dy="21">доводить проекты до результата.</tspan></text>
+  </g>
+  <g transform="translate(508 243)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">04</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Подтвердить учебный результат</tspan></text>
+    <text x="20" y="64" class="body"><tspan x="20" dy="0">Проверять оценки, проходить сессию и закрывать</tspan><tspan x="20" dy="21">задолженности.</tspan></text>
+  </g>
+  <g transform="translate(28 401)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">05</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Собрать или изменить учебный</tspan><tspan x="69" dy="27">план</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Выбрать, что и где изучать, и изменить условия</tspan><tspan x="20" dy="21">обучения при необходимости.</tspan></text>
+  </g>
+  <g transform="translate(508 401)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">06</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Пройти и зачесть практику</tspan></text>
+    <text x="20" y="64" class="body"><tspan x="20" dy="0">Найти подходящее место, выполнить программу</tspan><tspan x="20" dy="21">практики и получить зачёт по учебному плану.</tspan></text>
+  </g>
+  <g transform="translate(28 559)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">07</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Подтвердить статус и оформить</tspan><tspan x="69" dy="27">документы</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Получить официальные подтверждения для вуза и</tspan><tspan x="20" dy="21">внешних организаций.</tspan></text>
+  </g>
+  <g transform="translate(508 559)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">08</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Оплатить учёбу и получить</tspan><tspan x="69" dy="27">поддержку</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Управлять платежами за обучение и получать</tspan><tspan x="20" dy="21">доступные стипендии, выплаты и льготы.</tspan></text>
+  </g>
+  <g transform="translate(28 717)">
+    <rect width="464" height="163" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">09</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Пользоваться кампусом и</tspan><tspan x="69" dy="27">ресурсами</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Попадать в нужные места и пользоваться</tspan><tspan x="20" dy="21">библиотекой, помещениями, техникой, питанием и</tspan><tspan x="20" dy="21">спортом.</tspan></text>
+  </g>
+  <g transform="translate(508 717)">
+    <rect width="464" height="163" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">10</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Устроить жильё и быт</tspan></text>
+    <text x="20" y="64" class="body"><tspan x="20" dy="0">Найти жильё, заселиться и решать повседневные</tspan><tspan x="20" dy="21">бытовые вопросы.</tspan></text>
+  </g>
+  <g transform="translate(28 896)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">11</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Найти своё дело и развиваться</tspan></text>
+    <text x="20" y="64" class="body"><tspan x="20" dy="0">Включиться в сообщества, попробовать себя в</tspan><tspan x="20" dy="21">науке, проектах или работе и накопить опыт.</tspan></text>
+  </g>
+  <g transform="translate(508 896)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">12</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Получить помощь и устранить</tspan><tspan x="69" dy="27">препятствия</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Решить проблему с доступом, здоровьем,</tspan><tspan x="20" dy="21">условиями обучения или безопасностью.</tspan></text>
+  </g>
+  <g transform="translate(28 1054)">
+    <rect width="464" height="142" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">13</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Завершить обучение и получить</tspan><tspan x="69" dy="27">диплом</tspan></text>
+    <text x="20" y="91" class="body"><tspan x="20" dy="0">Пройти итоговую аттестацию, закрыть</tspan><tspan x="20" dy="21">обязательства перед вузом и забрать документы.</tspan></text>
+  </g>
+</svg>
