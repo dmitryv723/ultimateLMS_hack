@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2127" viewBox="0 0 1000 2127" role="img" aria-labelledby="title desc">
+  <title id="title">Карта студенческих процессов</title>
+  <desc id="desc">13 областей · 76 процессов. Полное текстовое описание находится под схемой.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .background { fill: #f0f4f8; }
+    .card { fill: #ffffff; stroke: #cbd7e5; }
+    .heading { fill: #13243b; font-weight: 700; font-size: 34px; }
+    .subheading { fill: #455971; font-size: 18px; }
+    .area { fill: #13243b; font-weight: 700; font-size: 23px; }
+    .badge { fill: #dcebf8; }
+    .number { fill: #174876; font-weight: 700; font-size: 16px; }
+    .body { fill: #324760; font-size: 18px; }
+    .dot { fill: #4077a9; }
+  </style>
+  <rect width="100%" height="100%" rx="20" class="background"/>
+  <text x="28" y="54" class="heading"><tspan x="28" dy="0">Карта студенческих процессов</tspan></text>
+  <text x="29" y="83" class="subheading"><tspan x="29" dy="0">13 областей · 76 процессов</tspan></text>
+  <g transform="translate(28 112)">
+    <rect width="464" height="213" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">01</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Освоиться после зачисления</tspan></text>
+    <circle cx="25" cy="59" r="3" class="dot"/>
+    <text x="38" y="64" class="body"><tspan x="38" dy="0">Активировать университетские доступы</tspan></text>
+    <circle cx="25" cy="87" r="3" class="dot"/>
+    <text x="38" y="92" class="body"><tspan x="38" dy="0">Найти свою группу и чат</tspan></text>
+    <circle cx="25" cy="115" r="3" class="dot"/>
+    <text x="38" y="120" class="body"><tspan x="38" dy="0">Пройти вводные встречи</tspan></text>
+    <circle cx="25" cy="143" r="3" class="dot"/>
+    <text x="38" y="148" class="body"><tspan x="38" dy="0">Найти каналы объявлений</tspan></text>
+    <circle cx="25" cy="171" r="3" class="dot"/>
+    <text x="38" y="176" class="body"><tspan x="38" dy="0">Уточнить стартовые формальности</tspan></text>
+  </g>
+  <g transform="translate(508 112)">
+    <rect width="464" height="213" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">02</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Организовать учебную неделю</tspan></text>
+    <circle cx="25" cy="59" r="3" class="dot"/>
+    <text x="38" y="64" class="body"><tspan x="38" dy="0">Собрать расписание группы</tspan></text>
+    <circle cx="25" cy="87" r="3" class="dot"/>
+    <text x="38" y="92" class="body"><tspan x="38" dy="0">Проверить ближайшее занятие</tspan></text>
+    <circle cx="25" cy="115" r="3" class="dot"/>
+    <text x="38" y="120" class="body"><tspan x="38" dy="0">Скорректировать планы после переноса</tspan></text>
+    <circle cx="25" cy="143" r="3" class="dot"/>
+    <text x="38" y="148" class="body"><tspan x="38" dy="0">Подключиться к онлайн-занятию</tspan></text>
+    <circle cx="25" cy="171" r="3" class="dot"/>
+    <text x="38" y="176" class="body"><tspan x="38" dy="0">Согласовать пропуск занятия</tspan></text>
+  </g>
+  <g transform="translate(28 341)">
+    <rect width="464" height="268" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">03</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Осваивать курсы и выполнять</tspan><tspan x="69" dy="27">работы</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Разобраться в требованиях курса</tspan></text>
+    <circle cx="25" cy="114" r="3" class="dot"/>
+    <text x="38" y="119" class="body"><tspan x="38" dy="0">Подготовиться к занятию</tspan></text>
+    <circle cx="25" cy="142" r="3" class="dot"/>
+    <text x="38" y="147" class="body"><tspan x="38" dy="0">Участвовать в занятии</tspan></text>
+    <circle cx="25" cy="170" r="3" class="dot"/>
+    <text x="38" y="175" class="body"><tspan x="38" dy="0">Уточнить задание или тему</tspan></text>
+    <circle cx="25" cy="198" r="3" class="dot"/>
+    <text x="38" y="203" class="body"><tspan x="38" dy="0">Сдать и доработать учебную работу</tspan></text>
+    <circle cx="25" cy="226" r="3" class="dot"/>
+    <text x="38" y="231" class="body"><tspan x="38" dy="0">Выполнить проект или курсовую</tspan></text>
+  </g>
+  <g transform="translate(508 341)">
+    <rect width="464" height="268" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">04</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Подтвердить учебный результат</tspan></text>
+    <circle cx="25" cy="59" r="3" class="dot"/>
+    <text x="38" y="64" class="body"><tspan x="38" dy="0">Сверить текущие баллы</tspan></text>
+    <circle cx="25" cy="87" r="3" class="dot"/>
+    <text x="38" y="92" class="body"><tspan x="38" dy="0">Подготовиться к сессии</tspan></text>
+    <circle cx="25" cy="115" r="3" class="dot"/>
+    <text x="38" y="120" class="body"><tspan x="38" dy="0">Пройти сессию и проверить оценки</tspan></text>
+    <circle cx="25" cy="143" r="3" class="dot"/>
+    <text x="38" y="148" class="body"><tspan x="38" dy="0">Согласовать неявку на экзамен</tspan></text>
+    <circle cx="25" cy="171" r="3" class="dot"/>
+    <text x="38" y="176" class="body"><tspan x="38" dy="0">Разобраться с расхождением в оценке</tspan></text>
+    <circle cx="25" cy="199" r="3" class="dot"/>
+    <text x="38" y="204" class="body"><tspan x="38" dy="0">Закрыть задолженность через пересдачу</tspan></text>
+  </g>
+  <g transform="translate(28 625)">
+    <rect width="464" height="268" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">05</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Собрать или изменить учебный</tspan><tspan x="69" dy="27">план</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Выбрать дисциплины или профиль</tspan></text>
+    <circle cx="25" cy="114" r="3" class="dot"/>
+    <text x="38" y="119" class="body"><tspan x="38" dy="0">Согласовать индивидуальный план</tspan></text>
+    <circle cx="25" cy="142" r="3" class="dot"/>
+    <text x="38" y="147" class="body"><tspan x="38" dy="0">Поехать на обучение по обмену</tspan></text>
+    <circle cx="25" cy="170" r="3" class="dot"/>
+    <text x="38" y="175" class="body"><tspan x="38" dy="0">Оформить перевод</tspan></text>
+    <circle cx="25" cy="198" r="3" class="dot"/>
+    <text x="38" y="203" class="body"><tspan x="38" dy="0">Оформить отпуск и вернуться к учёбе</tspan></text>
+    <circle cx="25" cy="226" r="3" class="dot"/>
+    <text x="38" y="231" class="body"><tspan x="38" dy="0">Прекратить или восстановить обучение</tspan></text>
+  </g>
+  <g transform="translate(508 625)">
+    <rect width="464" height="268" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">06</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Пройти и зачесть практику</tspan></text>
+    <circle cx="25" cy="59" r="3" class="dot"/>
+    <text x="38" y="64" class="body"><tspan x="38" dy="0">Уточнить требования к практике</tspan></text>
+    <circle cx="25" cy="87" r="3" class="dot"/>
+    <text x="38" y="92" class="body"><tspan x="38" dy="0">Найти и согласовать место практики</tspan></text>
+    <circle cx="25" cy="115" r="3" class="dot"/>
+    <text x="38" y="120" class="body"><tspan x="38" dy="0">Оформить документы до начала практики</tspan></text>
+    <circle cx="25" cy="143" r="3" class="dot"/>
+    <text x="38" y="148" class="body"><tspan x="38" dy="0">Зачесть работу или стажировку</tspan></text>
+    <circle cx="25" cy="171" r="3" class="dot"/>
+    <text x="38" y="176" class="body"><tspan x="38" dy="0">Пройти практику и получить зачёт</tspan></text>
+  </g>
+  <g transform="translate(28 909)">
+    <rect width="464" height="289" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">07</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Подтвердить статус и оформить</tspan><tspan x="69" dy="27">документы</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Получить справку или выписку</tspan></text>
+    <circle cx="25" cy="114" r="3" class="dot"/>
+    <text x="38" y="119" class="body"><tspan x="38" dy="0">Обновить личные данные</tspan></text>
+    <circle cx="25" cy="142" r="3" class="dot"/>
+    <text x="38" y="147" class="body"><tspan x="38" dy="0">Восстановить документ</tspan></text>
+    <circle cx="25" cy="170" r="3" class="dot"/>
+    <text x="38" y="175" class="body"><tspan x="38" dy="0">Проверить ход поданного заявления</tspan></text>
+    <circle cx="25" cy="198" r="3" class="dot"/>
+    <text x="38" y="203" class="body"><tspan x="38" dy="0">Уточнить действия по воинскому учёту</tspan></text>
+    <circle cx="25" cy="226" r="3" class="dot"/>
+    <text x="38" y="231" class="body"><tspan x="38" dy="0">Получить помощь с миграционными</tspan><tspan x="38" dy="21">документами</tspan></text>
+  </g>
+  <g transform="translate(508 909)">
+    <rect width="464" height="289" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">08</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Оплатить учёбу и получить</tspan><tspan x="69" dy="27">поддержку</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Оплатить обучение</tspan></text>
+    <circle cx="25" cy="114" r="3" class="dot"/>
+    <text x="38" y="119" class="body"><tspan x="38" dy="0">Изменить условия или вернуть платёж</tspan></text>
+    <circle cx="25" cy="142" r="3" class="dot"/>
+    <text x="38" y="147" class="body"><tspan x="38" dy="0">Проверить начисление стипендии</tspan></text>
+    <circle cx="25" cy="170" r="3" class="dot"/>
+    <text x="38" y="175" class="body"><tspan x="38" dy="0">Подать заявку на конкурсную стипендию</tspan></text>
+    <circle cx="25" cy="198" r="3" class="dot"/>
+    <text x="38" y="203" class="body"><tspan x="38" dy="0">Запросить льготу или материальную помощь</tspan></text>
+    <circle cx="25" cy="226" r="3" class="dot"/>
+    <text x="38" y="231" class="body"><tspan x="38" dy="0">Подтвердить оплату для налогового вычета</tspan></text>
+  </g>
+  <g transform="translate(28 1214)">
+    <rect width="464" height="268" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">09</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Пользоваться кампусом и</tspan><tspan x="69" dy="27">ресурсами</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Получить или восстановить пропуск</tspan></text>
+    <circle cx="25" cy="114" r="3" class="dot"/>
+    <text x="38" y="119" class="body"><tspan x="38" dy="0">Сориентироваться на кампусе</tspan></text>
+    <circle cx="25" cy="142" r="3" class="dot"/>
+    <text x="38" y="147" class="body"><tspan x="38" dy="0">Воспользоваться библиотекой</tspan></text>
+    <circle cx="25" cy="170" r="3" class="dot"/>
+    <text x="38" y="175" class="body"><tspan x="38" dy="0">Забронировать место или оборудование</tspan></text>
+    <circle cx="25" cy="198" r="3" class="dot"/>
+    <text x="38" y="203" class="body"><tspan x="38" dy="0">Найти, где поесть</tspan></text>
+    <circle cx="25" cy="226" r="3" class="dot"/>
+    <text x="38" y="231" class="body"><tspan x="38" dy="0">Воспользоваться спортивными ресурсами</tspan></text>
+  </g>
+  <g transform="translate(508 1214)">
+    <rect width="464" height="268" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">10</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Устроить жильё и быт</tspan></text>
+    <circle cx="25" cy="59" r="3" class="dot"/>
+    <text x="38" y="64" class="body"><tspan x="38" dy="0">Подобрать жильё</tspan></text>
+    <circle cx="25" cy="87" r="3" class="dot"/>
+    <text x="38" y="92" class="body"><tspan x="38" dy="0">Оформить заселение в общежитие</tspan></text>
+    <circle cx="25" cy="115" r="3" class="dot"/>
+    <text x="38" y="120" class="body"><tspan x="38" dy="0">Оплачивать жильё и пользоваться услугами</tspan></text>
+    <circle cx="25" cy="143" r="3" class="dot"/>
+    <text x="38" y="148" class="body"><tspan x="38" dy="0">Сообщить о бытовой проблеме</tspan></text>
+    <circle cx="25" cy="171" r="3" class="dot"/>
+    <text x="38" y="176" class="body"><tspan x="38" dy="0">Продлить проживание, переселиться или</tspan><tspan x="38" dy="21">выехать</tspan></text>
+  </g>
+  <g transform="translate(28 1498)">
+    <rect width="464" height="296" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">11</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Найти своё дело и развиваться</tspan></text>
+    <circle cx="25" cy="59" r="3" class="dot"/>
+    <text x="38" y="64" class="body"><tspan x="38" dy="0">Присоединиться к сообществу</tspan></text>
+    <circle cx="25" cy="87" r="3" class="dot"/>
+    <text x="38" y="92" class="body"><tspan x="38" dy="0">Принять участие в мероприятии</tspan></text>
+    <circle cx="25" cy="115" r="3" class="dot"/>
+    <text x="38" y="120" class="body"><tspan x="38" dy="0">Организовать мероприятие или клуб</tspan></text>
+    <circle cx="25" cy="143" r="3" class="dot"/>
+    <text x="38" y="148" class="body"><tspan x="38" dy="0">Включиться в научную работу</tspan></text>
+    <circle cx="25" cy="171" r="3" class="dot"/>
+    <text x="38" y="176" class="body"><tspan x="38" dy="0">Получить карьерную консультацию</tspan></text>
+    <circle cx="25" cy="199" r="3" class="dot"/>
+    <text x="38" y="204" class="body"><tspan x="38" dy="0">Найти стажировку или работу</tspan></text>
+    <circle cx="25" cy="227" r="3" class="dot"/>
+    <text x="38" y="232" class="body"><tspan x="38" dy="0">Представить интересы группы</tspan></text>
+  </g>
+  <g transform="translate(508 1498)">
+    <rect width="464" height="296" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">12</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Получить помощь и устранить</tspan><tspan x="69" dy="27">препятствия</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Найти ответственного за проблему</tspan></text>
+    <circle cx="25" cy="114" r="3" class="dot"/>
+    <text x="38" y="119" class="body"><tspan x="38" dy="0">Восстановить технический доступ</tspan></text>
+    <circle cx="25" cy="142" r="3" class="dot"/>
+    <text x="38" y="147" class="body"><tspan x="38" dy="0">Получить медицинскую помощь</tspan></text>
+    <circle cx="25" cy="170" r="3" class="dot"/>
+    <text x="38" y="175" class="body"><tspan x="38" dy="0">Получить психологическую поддержку</tspan></text>
+    <circle cx="25" cy="198" r="3" class="dot"/>
+    <text x="38" y="203" class="body"><tspan x="38" dy="0">Согласовать доступные условия обучения</tspan></text>
+    <circle cx="25" cy="226" r="3" class="dot"/>
+    <text x="38" y="231" class="body"><tspan x="38" dy="0">Сообщить о конфликте или угрозе</tspan></text>
+    <circle cx="25" cy="254" r="3" class="dot"/>
+    <text x="38" y="259" class="body"><tspan x="38" dy="0">Дать обратную связь об учёбе</tspan></text>
+  </g>
+  <g transform="translate(28 1810)">
+    <rect width="464" height="289" rx="14" class="card"/>
+    <rect x="18" y="19" width="38" height="30" rx="7" class="badge"/>
+    <text x="37" y="40" text-anchor="middle" class="number">13</text>
+    <text x="69" y="41" class="area"><tspan x="69" dy="0">Завершить обучение и получить</tspan><tspan x="69" dy="27">диплом</tspan></text>
+    <circle cx="25" cy="86" r="3" class="dot"/>
+    <text x="38" y="91" class="body"><tspan x="38" dy="0">Проверить готовность к итоговой</tspan><tspan x="38" dy="21">аттестации</tspan></text>
+    <circle cx="25" cy="135" r="3" class="dot"/>
+    <text x="38" y="140" class="body"><tspan x="38" dy="0">Подготовить выпускную работу</tspan></text>
+    <circle cx="25" cy="163" r="3" class="dot"/>
+    <text x="38" y="168" class="body"><tspan x="38" dy="0">Пройти итоговую аттестацию</tspan></text>
+    <circle cx="25" cy="191" r="3" class="dot"/>
+    <text x="38" y="196" class="body"><tspan x="38" dy="0">Сверить данные в приложении к диплому</tspan></text>
+    <circle cx="25" cy="219" r="3" class="dot"/>
+    <text x="38" y="224" class="body"><tspan x="38" dy="0">Закрыть обязательства перед вузом</tspan></text>
+    <circle cx="25" cy="247" r="3" class="dot"/>
+    <text x="38" y="252" class="body"><tspan x="38" dy="0">Получить диплом и документы</tspan></text>
+  </g>
+</svg>
