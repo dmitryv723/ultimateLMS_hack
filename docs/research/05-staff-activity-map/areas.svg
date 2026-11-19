@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1122" viewBox="0 0 1120 1122" role="img" aria-labelledby="map-title map-description">
+  <title id="map-title">Области деятельности сотрудников вуза</title>
+  <desc id="map-description">43 области в шести группах. Текстовое описание каждой области есть под схемой.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .background { fill: #eff3f7; }
+    .card { fill: #fff; stroke: #cad5e3; }
+    .map-title { fill: #11263d; font-size: 38px; font-weight: 700; }
+    .map-subtitle { fill: #445b71; font-size: 20px; }
+    .group-title { fill: #162b43; font-size: 24px; font-weight: 700; }
+    .area-name { fill: #294157; font-size: 20px; }
+  </style>
+  <rect width="100%" height="100%" rx="22" class="background"/>
+  <text x="28" y="59" class="map-title"><tspan x="28" dy="0">Области деятельности сотрудников вуза</tspan></text>
+  <text x="29" y="91" class="map-subtitle"><tspan x="29" dy="0">43 области · 6 групп</tspan></text>
+  <g transform="translate(28 122)">
+    <rect width="523" height="301" rx="16" class="card"/>
+    <rect x="17" y="16" width="489" height="45" rx="9" fill="#e8f4f8"/>
+    <text x="30" y="44" class="group-title"><tspan x="30" dy="0">Образование</tspan></text>
+    <circle cx="28" cy="78" r="3.25" fill="#145b77"/>
+    <text x="41" y="84" class="area-name"><tspan x="41" dy="0">Абитуриенты и приём</tspan></text>
+    <circle cx="28" cy="111" r="3.25" fill="#145b77"/>
+    <text x="41" y="117" class="area-name"><tspan x="41" dy="0">Образовательные программы</tspan></text>
+    <circle cx="28" cy="144" r="3.25" fill="#145b77"/>
+    <text x="41" y="150" class="area-name"><tspan x="41" dy="0">Организация учебного года</tspan></text>
+    <circle cx="28" cy="177" r="3.25" fill="#145b77"/>
+    <text x="41" y="183" class="area-name"><tspan x="41" dy="0">Преподавание и учебные материалы</tspan></text>
+    <circle cx="28" cy="210" r="3.25" fill="#145b77"/>
+    <text x="41" y="216" class="area-name"><tspan x="41" dy="0">Оценивание и аттестация</tspan></text>
+    <circle cx="28" cy="243" r="3.25" fill="#145b77"/>
+    <text x="41" y="249" class="area-name"><tspan x="41" dy="0">Академический учёт и документы</tspan></text>
+    <circle cx="28" cy="276" r="3.25" fill="#145b77"/>
+    <text x="41" y="282" class="area-name"><tspan x="41" dy="0">Практика и проектное обучение</tspan></text>
+  </g>
+  <g transform="translate(569 122)">
+    <rect width="523" height="301" rx="16" class="card"/>
+    <rect x="17" y="16" width="489" height="45" rx="9" fill="#f1ebfa"/>
+    <text x="30" y="44" class="group-title"><tspan x="30" dy="0">Наука и инновации</tspan></text>
+    <circle cx="28" cy="78" r="3.25" fill="#624890"/>
+    <text x="41" y="84" class="area-name"><tspan x="41" dy="0">Исследования и разработки</tspan></text>
+    <circle cx="28" cy="111" r="3.25" fill="#624890"/>
+    <text x="41" y="117" class="area-name"><tspan x="41" dy="0">Научные проекты и гранты</tspan></text>
+    <circle cx="28" cy="144" r="3.25" fill="#624890"/>
+    <text x="41" y="150" class="area-name"><tspan x="41" dy="0">Научная инфраструктура</tspan></text>
+    <circle cx="28" cy="177" r="3.25" fill="#624890"/>
+    <text x="41" y="183" class="area-name"><tspan x="41" dy="0">Аспирантура и научная аттестация</tspan></text>
+    <circle cx="28" cy="210" r="3.25" fill="#624890"/>
+    <text x="41" y="216" class="area-name"><tspan x="41" dy="0">Библиотеки и информационные ресурсы</tspan></text>
+    <circle cx="28" cy="243" r="3.25" fill="#624890"/>
+    <text x="41" y="249" class="area-name"><tspan x="41" dy="0">Научные издания и публикации</tspan></text>
+    <circle cx="28" cy="276" r="3.25" fill="#624890"/>
+    <text x="41" y="282" class="area-name"><tspan x="41" dy="0">Трансфер технологий и инновации</tspan></text>
+  </g>
+  <g transform="translate(28 441)">
+    <rect width="523" height="301" rx="16" class="card"/>
+    <rect x="17" y="16" width="489" height="45" rx="9" fill="#e9f6ef"/>
+    <text x="30" y="44" class="group-title"><tspan x="30" dy="0">Люди и университетские сообщества</tspan></text>
+    <circle cx="28" cy="78" r="3.25" fill="#236c54"/>
+    <text x="41" y="84" class="area-name"><tspan x="41" dy="0">Персонал и трудовые отношения</tspan></text>
+    <circle cx="28" cy="111" r="3.25" fill="#236c54"/>
+    <text x="41" y="117" class="area-name"><tspan x="41" dy="0">Поддержка и развитие сотрудников</tspan></text>
+    <circle cx="28" cy="144" r="3.25" fill="#236c54"/>
+    <text x="41" y="150" class="area-name"><tspan x="41" dy="0">Консультации и обращения студентов</tspan></text>
+    <circle cx="28" cy="177" r="3.25" fill="#236c54"/>
+    <text x="41" y="183" class="area-name"><tspan x="41" dy="0">Стипендии и социальная поддержка</tspan></text>
+    <circle cx="28" cy="210" r="3.25" fill="#236c54"/>
+    <text x="41" y="216" class="area-name"><tspan x="41" dy="0">Здоровье и психологическая помощь</tspan></text>
+    <circle cx="28" cy="243" r="3.25" fill="#236c54"/>
+    <text x="41" y="249" class="area-name"><tspan x="41" dy="0">Инклюзия и доступность</tspan></text>
+    <circle cx="28" cy="276" r="3.25" fill="#236c54"/>
+    <text x="41" y="282" class="area-name"><tspan x="41" dy="0">Студенческая жизнь и спорт</tspan></text>
+  </g>
+  <g transform="translate(569 441)">
+    <rect width="523" height="301" rx="16" class="card"/>
+    <rect x="17" y="16" width="489" height="45" rx="9" fill="#fbf1e5"/>
+    <text x="30" y="44" class="group-title"><tspan x="30" dy="0">Кампус и эксплуатация</tspan></text>
+    <circle cx="28" cy="78" r="3.25" fill="#98602d"/>
+    <text x="41" y="84" class="area-name"><tspan x="41" dy="0">Здания и инженерная инфраструктура</tspan></text>
+    <circle cx="28" cy="111" r="3.25" fill="#98602d"/>
+    <text x="41" y="117" class="area-name"><tspan x="41" dy="0">Хозяйственное обслуживание</tspan></text>
+    <circle cx="28" cy="144" r="3.25" fill="#98602d"/>
+    <text x="41" y="150" class="area-name"><tspan x="41" dy="0">Общежития и бытовая инфраструктура</tspan></text>
+    <circle cx="28" cy="177" r="3.25" fill="#98602d"/>
+    <text x="41" y="183" class="area-name"><tspan x="41" dy="0">Питание и гостеприимство</tspan></text>
+    <circle cx="28" cy="210" r="3.25" fill="#98602d"/>
+    <text x="41" y="216" class="area-name"><tspan x="41" dy="0">Транспорт и логистика</tspan></text>
+    <circle cx="28" cy="243" r="3.25" fill="#98602d"/>
+    <text x="41" y="249" class="area-name"><tspan x="41" dy="0">Физическая безопасность</tspan></text>
+    <circle cx="28" cy="276" r="3.25" fill="#98602d"/>
+    <text x="41" y="282" class="area-name"><tspan x="41" dy="0">Охрана труда и безопасность среды</tspan></text>
+  </g>
+  <g transform="translate(28 760)">
+    <rect width="523" height="334" rx="16" class="card"/>
+    <rect x="17" y="16" width="489" height="45" rx="9" fill="#ecf1fb"/>
+    <text x="30" y="44" class="group-title"><tspan x="30" dy="0">Управление и внутренние сервисы</tspan></text>
+    <circle cx="28" cy="78" r="3.25" fill="#304f92"/>
+    <text x="41" y="84" class="area-name"><tspan x="41" dy="0">Стратегия и управление вузом</tspan></text>
+    <circle cx="28" cy="111" r="3.25" fill="#304f92"/>
+    <text x="41" y="117" class="area-name"><tspan x="41" dy="0">Качество, аналитика и отчётность</tspan></text>
+    <circle cx="28" cy="144" r="3.25" fill="#304f92"/>
+    <text x="41" y="150" class="area-name"><tspan x="41" dy="0">Финансы и бухгалтерский учёт</tspan></text>
+    <circle cx="28" cy="177" r="3.25" fill="#304f92"/>
+    <text x="41" y="183" class="area-name"><tspan x="41" dy="0">Закупки и снабжение</tspan></text>
+    <circle cx="28" cy="210" r="3.25" fill="#304f92"/>
+    <text x="41" y="216" class="area-name"><tspan x="41" dy="0">Правовое сопровождение</tspan></text>
+    <circle cx="28" cy="243" r="3.25" fill="#304f92"/>
+    <text x="41" y="249" class="area-name"><tspan x="41" dy="0">Документы и архивы</tspan></text>
+    <circle cx="28" cy="276" r="3.25" fill="#304f92"/>
+    <text x="41" y="282" class="area-name"><tspan x="41" dy="0">ИТ и цифровая инфраструктура</tspan></text>
+    <circle cx="28" cy="309" r="3.25" fill="#304f92"/>
+    <text x="41" y="315" class="area-name"><tspan x="41" dy="0">Данные и информационная безопасность</tspan></text>
+  </g>
+  <g transform="translate(569 760)">
+    <rect width="523" height="334" rx="16" class="card"/>
+    <rect x="17" y="16" width="489" height="73" rx="9" fill="#f9edf2"/>
+    <text x="30" y="44" class="group-title"><tspan x="30" dy="0">Внешние связи и профильная</tspan><tspan x="30" dy="28">деятельность</tspan></text>
+    <circle cx="28" cy="106" r="3.25" fill="#8a4058"/>
+    <text x="41" y="112" class="area-name"><tspan x="41" dy="0">Партнёрства в стране и экспертная работа</tspan></text>
+    <circle cx="28" cy="139" r="3.25" fill="#8a4058"/>
+    <text x="41" y="145" class="area-name"><tspan x="41" dy="0">Международное сотрудничество</tspan></text>
+    <circle cx="28" cy="172" r="3.25" fill="#8a4058"/>
+    <text x="41" y="178" class="area-name"><tspan x="41" dy="0">Карьера и выпускники</tspan></text>
+    <circle cx="28" cy="205" r="3.25" fill="#8a4058"/>
+    <text x="41" y="211" class="area-name"><tspan x="41" dy="0">Коммуникации и публичные мероприятия</tspan></text>
+    <circle cx="28" cy="238" r="3.25" fill="#8a4058"/>
+    <text x="41" y="244" class="area-name"><tspan x="41" dy="0">Фандрайзинг и целевой капитал</tspan></text>
+    <circle cx="28" cy="271" r="3.25" fill="#8a4058"/>
+    <text x="41" y="277" class="area-name"><tspan x="41" dy="0">Культурное наследие и просвещение</tspan></text>
+    <circle cx="28" cy="304" r="3.25" fill="#8a4058"/>
+    <text x="41" y="310" class="area-name"><tspan x="41" dy="0">Профильные учреждения и площадки</tspan></text>
+  </g>
+</svg>
