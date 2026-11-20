@@ -11,7 +11,7 @@
 
 [Сводка выводов](findings.md) · [Журнал работы с ИИ](ai-log.md) · [Шаблон этапа](templates/stage.md)
 
-[Подробный каталог студенческих процессов](01-student-activity-map/processes.md) · [Вопросы для проверки](01-student-activity-map/research-questions.md)
+[Подробный каталог студенческих процессов](01-student-activity-map/processes.md) · [Вопросы для проверки](research-questions.md)
 
 ## Исследование сотрудников
 
