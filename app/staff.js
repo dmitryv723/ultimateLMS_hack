@@ -1,4 +1,5 @@
 import { markdownContent } from './markdown.js';
+import { formatToolbar } from './format-toolbar.js';
 import { addDays, fullDate, lessonSlots, shortDate, workKey } from './fixtures.js';
 import { staffWeekTable } from './timetable.js';
 import { courseFileHref } from './courses.js';
@@ -136,7 +137,7 @@ export function staffPublications({ course, group, items }, topic, topicName, pa
         <input type="hidden" name="kind" value="${kind}">
         ${staffError(error)}
         <label>Название<input name="title" maxlength="100" value="${escape(title)}" required></label>
-        <label>${kind === 'material' ? 'Описание материала' : 'Условия задания'}<textarea name="description" rows="4" maxlength="2500">${escape(description)}</textarea></label>
+        <label>${kind === 'material' ? 'Описание материала' : 'Условия задания'}${formatToolbar('publication-description')}<textarea id="publication-description" name="description" rows="4" maxlength="2500">${escape(description)}</textarea></label>
         ${kind !== 'material' ? `
         <div class="staff-fields">
           <label>${kind === 'test' ? 'Дата контрольной' : 'Дедлайн'}<input name="day" type="date" value="${escape(day)}" required></label>
@@ -228,7 +229,7 @@ export function staffReview({ work, student, answer, sheet, back, path, csrf, er
           <label>Балл<input name="score" type="number" min="0" max="1000" required value="${escape(values?.score ?? score ?? '')}"></label>
           <label>Максимум<input name="max" type="number" min="1" max="1000" required value="${escape(values?.max ?? max ?? work.max ?? '')}"></label>
         </div>
-        <label>Комментарий студенту<textarea name="feedback" rows="4" maxlength="2000">${escape(values?.feedback ?? answer.feedback ?? '')}</textarea></label>
+        <label>Комментарий студенту${formatToolbar('homework-feedback')}<textarea id="homework-feedback" name="feedback" rows="4" maxlength="2000">${escape(values?.feedback ?? answer.feedback ?? '')}</textarea></label>
         ${staffSave('Сохранить оценку и комментарий')}
       </form>
     </section>`;
@@ -360,7 +361,7 @@ export function staffRequest(item, student, csrf, comments, { error, selected = 
         <input type="hidden" name="submission" value="${newSubmissionKey()}">
         <label>Статус заявки<select name="status">${statuses.map(([id, { label }]) =>
           `<option value="${id}"${selected === id ? ' selected' : ''}>${label}</option>`).join('')}</select></label>
-        <label>Комментарий<textarea name="comment" rows="4" maxlength="1500">${escape(comment)}</textarea></label>
+        <label>Комментарий${formatToolbar('staff-request-comment')}<textarea id="staff-request-comment" name="comment" rows="4" maxlength="1500">${escape(comment)}</textarea></label>
         ${staffSave('Сохранить')}
       </form>
     </section>`;
