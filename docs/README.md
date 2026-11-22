@@ -10,4 +10,4 @@
 | Найти выводы для выбора сценариев | [Сводка выводов](research/findings.md) |
 | Начать задачу с ИИ-ассистентом | [AGENTS.md](../AGENTS.md) |
 
-[GitHub Project](https://github.com/users/dmitryv723/projects/2) · [Сценарии текущего кабинета](research/07-implemented-scenarios/README.md)
+Результаты исследования используются для [сравнения сценариев](research/04-scenario-selection/comparison.md). Продуктовые решения будут записываться после этого сравнения.

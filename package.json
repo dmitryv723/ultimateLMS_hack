@@ -1,0 +1,14 @@
+{
+  "name": "digital-dean-office",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": {
+    "start": "node app/server.js",
+    "demo:accounts": "node app/demo-accounts.js",
+    "accounts:reset-code": "node app/reset-code.js",
+    "preview": "node app/export-preview.js",
+    "test": "node --test app/test/*.test.js"
+  }
+}
