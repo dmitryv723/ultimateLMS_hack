@@ -10,4 +10,4 @@
 | Найти выводы для выбора сценариев | [Сводка выводов](research/findings.md) |
 | Начать задачу с ИИ-ассистентом | [AGENTS.md](../AGENTS.md) |
 
-Продуктовые решения будут записываться после сопоставления карты студенческих действий с реальными наблюдениями.
+[GitHub Project](https://github.com/users/dmitryv723/projects/2) · [Сценарии текущего кабинета](research/07-implemented-scenarios/README.md)
